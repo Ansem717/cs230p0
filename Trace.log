@@ -1,0 +1,10 @@
+Engine: Init
+PlatformSystem: Init
+SceneSystem: Init
+Engine: Update
+Engine: Render
+Engine: Update
+Engine: Render
+Engine: Exit
+SceneSystem: Exit
+PlatformSystem: Exit

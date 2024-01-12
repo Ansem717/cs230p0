@@ -1,7 +1,7 @@
 //------------------------------------------------------------------------------
 //
 // File Name:	Stub.h
-// Author(s):	Doug Schilling (dschilling)
+// Author(s):	Andy Malik (andy.malik)
 // Project:		Project 0
 // Course:		CS230S24
 //
